@@ -5517,8 +5517,8 @@ function init() {
         UI.disable_navicon == true ? "none" : "block"
       }">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://telegram.dog/sawankumar" target="_blank">Contact</a></li>
-					<li class="menu_li"><a href="https://github.com/sawankumar/GoIndex-Theme-Nexmoe" target="_blank">Github</a></li>
+					<li class="menu_li"><a href="https://tx.me/riptidexd" target="_blank">Contact</a></li>
+					<li class="menu_li"><a href="https://riptide-11.com" target="_blank">Website</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
